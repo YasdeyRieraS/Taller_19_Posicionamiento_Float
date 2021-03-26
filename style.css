@@ -1,0 +1,36 @@
+P {
+  margin: 0 0.25em;
+  padding: 0.25em 0;
+}
+
+#div-before,
+#div-after {
+  background-color: #88d;
+  color: #000;
+}
+
+#div-1 {
+  background-color: #000;
+  color: #fff;
+  padding: 10px;
+}
+
+#div-1a {
+  background-color: #d33;
+  color: #fff;
+  float: left;
+  width: 30%;
+}
+
+#div-1b {
+  background-color: #3d3;
+  color: #fff;
+  float: right;
+  width: 30%;
+}
+
+#div-1c {
+  background-color: #33d;
+  color: #fff;
+  clear: both;
+}
